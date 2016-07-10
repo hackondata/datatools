@@ -1,3 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -87,3 +89,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+### IPythonNotebook template
+# Temporary data
+.ipynb_checkpoints/
+
